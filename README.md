@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Formulário Multi-Etapas utilizando React e TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi feito para fins de estudo.
 
 ## Available Scripts
 
