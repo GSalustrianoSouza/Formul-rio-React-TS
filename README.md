@@ -1,7 +1,7 @@
 # Formulário Multi-Etapas utilizando React e TypeScript
 
 Esse projeto foi feito para fins de estudo.
-###Pré-visualização indisponível no momento
+### Pré-visualização indisponível no momento.
 
 ## Available Scripts
 
